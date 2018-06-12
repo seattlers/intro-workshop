@@ -63,6 +63,6 @@ stats for the new data set which includes `val`.
 - Example of using `io::stdin` to read from stdin:
   https://doc.rust-lang.org/std/io/fn.stdin.html
 
-8. Add a command-line option to write all computed stats to a file as JSON.
+9. Add a command-line option to write all computed stats to a file as JSON.
 
 - Docs with example: https://doc.rust-lang.org/std/fs/struct.File.html
