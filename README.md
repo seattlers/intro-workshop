@@ -1,4 +1,4 @@
-# Seattle Rust Workshop 2018-06-11
+# Seattle Rust Intro Workshop
 
 ## Welcome!
 
