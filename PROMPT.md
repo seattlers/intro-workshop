@@ -35,7 +35,7 @@ stats for the new data set which includes `val`.
 - Docs for the `Iterator` trait:
   https://doc.rust-lang.org/std/iter/trait.Iterator.html
 - The Rust Book (2nd ed) chapter on iterators:
-  https://doc.rust-lang.org/book/second-edition/ch13-02-iterators.html
+  https://doc.rust-lang.org/book/ch13-02-iterators.html
 
 5. Add your own error type that implements `std::error::Error`, and replace the
    `unwrap()` and panics with use of `?` and `Result`.
